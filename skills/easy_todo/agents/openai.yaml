@@ -1,0 +1,4 @@
+interface:
+  display_name: "EasyTodo"
+  short_description: "在 OpenClaw 里做聊天式记录任务、查看今日任务和记录灵感"
+  default_prompt: "使用 $easy_todo 记录一个任务、查看今天任务，或记下一条灵感。"
